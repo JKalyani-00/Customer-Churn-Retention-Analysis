@@ -94,19 +94,20 @@ Customer-Churn-Retention-Analysis/
 └── README.md
 ```
 
-##  Dashboard Preview
+## Dashboard Preview
 
 ### Customer Overview
 
-![Customer Overview](PowerBI/Customer_Overview.png)
+![Customer Overview](PowerBI/Customer%20Overview.png)
 
 ### Churn Analysis
 
-![Churn Analysis](PowerBI/Churn_Analysis.png)
+![Churn Analysis](PowerBI/Churn%20Analysis.png)
 
 ### Retention Insights
 
-![Retention Insights](PowerBI/Retention_Insights.png)
+![Retention Insights](PowerBI/Retention%20Insights.png)
+
 
 ##  Project Objective
 
